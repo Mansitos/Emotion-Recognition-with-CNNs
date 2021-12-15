@@ -77,7 +77,7 @@ plot.show()
 
 
     
-![png](images\output_5_0.png)
+![png]("images/output_5_0.png")
     
 
 
