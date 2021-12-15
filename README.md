@@ -151,7 +151,7 @@ else:
 
 
     
-![png](images\output_10_1.png)
+![png](images/output_10_1.png)
     
 
 
