@@ -1,8 +1,18 @@
-# Emotion Recognition with CNNs
-Andrea Mansi (137857)
+# Emotion-Recognition-with-CNNs
 
-Christian Cagnoni (137690)
+This repository is about an university assignement from the Deep Learning Course (Università degli Studi di Udine).
 
+Master’s Degree in Computer Science, University of Udine
+Course of Deep Learning, Academic Year 2021/2022
+
+Course held by: Prof. Giuseppe Serra, Dr. Beatrice Portelli,
+Dr. Giovanni D’Agostino
+Dipartimento di Scienze Matematiche, Informatiche e Fisiche
+
+# Students: Andrea Mansi (137857) & Christian Cagnoni (137690)
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
 
 ```python
 import os
@@ -67,7 +77,7 @@ plot.show()
 
 
     
-![png](output_5_0.png)
+![png](images\output_5_0.png)
     
 
 
@@ -141,7 +151,7 @@ else:
 
 
     
-![png](output_10_1.png)
+![png](images\output_10_1.png)
     
 
 
@@ -192,7 +202,7 @@ if(enanche_dataset_flag):
 
 
     
-![png](output_12_1.png)
+![png](images\output_12_1.png)
     
 
 
@@ -956,19 +966,19 @@ plot.show()
 
 
     
-![png](output_28_1.png)
+![png](images\output_28_1.png)
     
 
 
 
     
-![png](output_28_2.png)
+![png](images\output_28_2.png)
     
 
 
 
     
-![png](output_28_3.png)
+![png](images\output_28_3.png)
     
 
 
@@ -1020,19 +1030,19 @@ for i in range(len(np.unique(y_test))):
 
 
     
-![png](output_29_1.png)
+![png](images\output_29_1.png)
     
 
 
 
     
-![png](output_29_2.png)
+![png](images\output_29_2.png)
     
 
 
 
     
-![png](output_29_3.png)
+![png](images\output_29_3.png)
     
 
 
@@ -1122,18 +1132,18 @@ print("Accuracy \t %d"%(accurcyMean))
 
 
     
-![png](output_30_1.png)
+![png](images\output_30_1.png)
     
 
 
 
     
-![png](output_30_2.png)
+![png](images\output_30_2.png)
     
 
 
 
     
-![png](output_30_3.png)
+![png](images\output_30_3.png)
     
 
