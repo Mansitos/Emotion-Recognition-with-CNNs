@@ -77,7 +77,7 @@ plot.show()
 
 
     
-![png]("images/output_5_0.png")
+![png](images/output_5_0.png)
     
 
 
@@ -202,7 +202,7 @@ if(enanche_dataset_flag):
 
 
     
-![png](images\output_12_1.png)
+![png](images/output_12_1.png)
     
 
 
@@ -966,19 +966,19 @@ plot.show()
 
 
     
-![png](images\output_28_1.png)
+![png](images/output_28_1.png)
     
 
 
 
     
-![png](images\output_28_2.png)
+![png](images/output_28_2.png)
     
 
 
 
     
-![png](images\output_28_3.png)
+![png](images/output_28_3.png)
     
 
 
@@ -1030,19 +1030,19 @@ for i in range(len(np.unique(y_test))):
 
 
     
-![png](images\output_29_1.png)
+![png](images/output_29_1.png)
     
 
 
 
     
-![png](images\output_29_2.png)
+![png](images/output_29_2.png)
     
 
 
 
     
-![png](images\output_29_3.png)
+![png](images/output_29_3.png)
     
 
 
@@ -1115,7 +1115,7 @@ print("Accuracy \t %d"%(accurcyMean))
     Recall of     2 : 45 %
     Recall of     3 : 85 %
     Recall of     4 : 60 %
-    Recall of     5 : 79 %
+    Recall of     5 : 79 %s
     Recall of     6 : 63 %
     
     
@@ -1132,18 +1132,18 @@ print("Accuracy \t %d"%(accurcyMean))
 
 
     
-![png](images\output_30_1.png)
+![png](images/output_30_1.png)
     
 
 
 
     
-![png](images\output_30_2.png)
+![png](images/output_30_2.png)
     
 
 
 
     
-![png](images\output_30_3.png)
+![png](images/output_30_3.png)
     
 
