@@ -1,6 +1,7 @@
 # Emotion-Recognition-with-CNNs
 
 This repository is about an university assignement for the Deep Learning Course (Università degli Studi di Udine).
+You can find a PDF report about the mini-project (in Italian language).
 
 Master’s Degree in Computer Science, University of Udine
 Course of Deep Learning, Academic Year 2021/2022
